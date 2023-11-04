@@ -8,3 +8,6 @@ https://github.com/icsl-Jeon/zed-open3d/commits?author=icsl-Jeon
 https://github.com/brian-h-wang/zed2-mapping/tree/master
 https://github.com/stereolabs/zed-sdk/tree/master/spatial%20mapping
 http://www.open3d.org/docs/0.9.0/tutorial/Basic/file_io.html
+
+### Visualization in RVIZ
+direct with zed camera
