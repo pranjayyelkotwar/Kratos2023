@@ -1,4 +1,7 @@
 ### Create ROSbag with zedd
 https://wiki.ros.org/rosbag/Tutorials/Recording%20and%20playing%20back%20data
 
-### 
+### Checkout this repository
+https://github.com/icsl-Jeon/zed-open3d/commits?author=icsl-Jeon
+
+
