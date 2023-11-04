@@ -11,3 +11,5 @@ http://www.open3d.org/docs/0.9.0/tutorial/Basic/file_io.html
 
 ### Visualization in RVIZ
 direct with zed camera
+
+### Look up fun projects to do with burger bot
